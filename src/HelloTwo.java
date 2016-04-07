@@ -3,6 +3,6 @@
  */
 public class HelloTwo {
     public static void main(String[] args) {
-        System.out.println("second hello////");
+        System.out.println("second hello///");
     }
 }
