@@ -6,5 +6,6 @@ public class Hello {
         System.out.println("Hello from MIREAA!");
         System.out.println("Hello from MIREAAagsdf!");
         //dfasdf
+        /*sdfhgsdhf
     }
 }
